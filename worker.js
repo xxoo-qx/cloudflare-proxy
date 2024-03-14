@@ -88,6 +88,7 @@ function createLandingPage() {
 </style>
     <meta charset="UTF-8">
     <title>GitHub Proxy</title>
+    <link rel="icon" href="https://musiczc.ymoo.buzz/favicon.ico">
   </head>
   <body>
     <h1>GitHub Proxy</h1>
